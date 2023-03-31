@@ -1,5 +1,10 @@
 # SQL. Анализ БД сервиса книг по подписке
 
+---------
+|<p>[**просмотр в HTML**](https://htmlpreview.github.io/?https://github.com/Pavel-Burdakov/analytics-course/blob/master/SQL/sql.html)</p><p>[**просмотр в PDF**](https://github.com/Pavel-Burdakov/analytics-course/blob/master/SQL/sql.pdf)</p><p>[**просмотр в IPYNB**](https://github.com/Pavel-Burdakov/analytics-course/blob/master/SQL/sql.ipynb)</p>
+
+-------
+
 ## Описание проекта
 
 Коронавирус застал мир врасплох, изменив привычный порядок вещей. В свободное время жители городов больше не выходят на улицу, не посещают кафе и торговые центры. Зато стало больше времени для книг. 
